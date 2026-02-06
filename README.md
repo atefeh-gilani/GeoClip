@@ -7,7 +7,7 @@ This repository contains a Python implementation of **GeoClip**, a geometry-awar
 
 | File | Description |
 |------|--------------|
-| **`geoclip_demo.ipynb`** | Jupyter notebook demonstrating how to train a simple model (classification or regression) using GeoClip. Includes data generation, model setup, and training plots. |
+| **`geoclip_demo.ipynb`** | Jupyter notebook demonstrating how to train a simple model using GeoClip. Includes data generation, model setup, and training plots. |
 | **`geoclip.py`** | Core implementation of the GeoClip algorithm with full-rank covariance updates. Suitable for experiments on moderate-dimensional models. |
 
 
